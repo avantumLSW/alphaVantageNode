@@ -15,8 +15,7 @@ Here is a quick guide for an easy start:
 1. Create an account at [https://www.alphavantage.co/](https://https://www.alphavantage.co//)
 2. Install the Modeler R Essentials Package for SPSS Modeler
 3. Install the holidayAPI.mpe from your SPSS Modeler
-4. Enter your API-key, a year (e.g. 2017) and a country from the list of countries.
-    * You could check 2017 for "DE" which should give you a list of german holidays to check whether something is hindering your device from communicating with the service.
+4. Enter your API-key, one implemented time series frequency, the symbol of the stock, the interval as well as the output size.
 5. You are free to go.
 
 ## Dependencies
