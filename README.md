@@ -19,7 +19,7 @@ Here is a quick guide for an easy start:
 5. You are free to go.
 
 ## Dependencies
-For usage please assure to have the dependencies (json and requests) installed for the python version located within your Modeler installation.
+This node has no dependencies other than a working internet connection.
 
 ## avantum
 [![avantum](https://www.avantum.de/typo3conf/ext/website_avantum/Resources/Public/Media/layout/avantum-logo-2018-9.png "avantum consult AG")](https://www.avantum.de/)
